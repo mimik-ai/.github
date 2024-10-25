@@ -1,7 +1,7 @@
 ## mimik ai product
 
 mimik ai is composed of the following components:
-- [mim-OE-ai](https://github.com/mimik-mimOE)
+- [mim OE](https://github.com/mimik-mimOE)
 - [mILM](https://github.com/edgemicroservice/milm)
 - [mModelStore](https://github.com/edgemicroservice/mmodelstore)
 - [mKB](https://github.com/edgemicroservice/mkb)
